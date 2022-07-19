@@ -2,7 +2,7 @@
   margin: 10;
 }
 body {
-  background-color: rgb(138, 42, 131);
+  background-color: rgb(159, 73, 153);
 }
 
 img {
@@ -14,7 +14,7 @@ img {
 .title {
   font-size: 56px;
   margin-left: 47px;
-  color: rgb(127, 255, 155);
+  color: rgb(127, 255, 244);
   font: 700 5.5rem 'Poppins', sans-serif;
 }
 .Subtitle {
@@ -25,7 +25,7 @@ img {
   font: 700 3.5rem 'Poppins', sans-serif;
 }
 .comment {
-  color: rgb(18, 219, 152);
+  color: rgb(97, 210, 225);
   font-size: 48px;
   margin-left: 49px;
   font: 700 2.5rem 'Poppins', sans-serif;
