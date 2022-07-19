@@ -2,6 +2,10 @@
   margin: 10;
 }
 body {
+  width: 90%; 
+  margin: 0 auto;
+  min-width: 600px;
+  max-width: 2000px;
   background-color: rgb(159, 73, 153);
 }
 
