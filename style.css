@@ -20,7 +20,7 @@ img {
 .title {
   font-size: 58px;
   margin-left: 56px;
-  color: rgb(246, 127, 255);
+  color: rgb(222, 99, 231);
   font: 700 5.5rem 'Poppins', sans-serif;
 }
 .Subtitle {
@@ -31,7 +31,7 @@ img {
   font: 700 3.5rem 'Poppins', sans-serif;
 }
 .comment {
-  color: rgb(97, 199, 225);
+  color: rgb(169, 97, 225);
   font-size: 48px;
   margin-left: 49px;
   font: 700 2.5rem 'Poppins', sans-serif;
