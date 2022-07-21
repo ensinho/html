@@ -2,14 +2,14 @@
   margin: 10;
 }
 body {
-  width: 90%; 
+  width: 94%; 
   min-width: 600px;
   max-width: 2000px;
-  background-color: rgb(47, 99, 194);
+  background-color: rgb(117, 188, 251);
 }
 
 img {
-  box-shadow: 10px 15px black;
+  box-shadow: 10px 15px rgb(21, 21, 21);
   border: 20px;
   border-radius: 18px;
   margin-left: 160px;
@@ -18,20 +18,20 @@ img {
 }
 
 .title {
-  font-size: 58px;
-  margin-left: 56px;
-  color: rgb(222, 99, 231);
+  font-size: 60px;
+  margin-left: 48px;
+  color: rgb(204, 91, 212);
   font: 700 5.5rem 'Poppins', sans-serif;
 }
 .Subtitle {
-  color: rgb(191, 114, 217);
+  color: rgb(71, 99, 194);
   margin: auto;
   font-size: 54px;
   margin-left: 47px;
   font: 700 3.5rem 'Poppins', sans-serif;
 }
 .comment {
-  color: rgb(169, 97, 225);
+  color: rgb(151, 84, 200);
   font-size: 48px;
   margin-left: 49px;
   font: 700 2.5rem 'Poppins', sans-serif;
