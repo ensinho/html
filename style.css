@@ -5,7 +5,7 @@ body {
   width: 90%; 
   min-width: 600px;
   max-width: 2000px;
-  background-color: rgb(29, 73, 154);
+  background-color: rgb(47, 99, 194);
 }
 
 img {
@@ -18,20 +18,20 @@ img {
 }
 
 .title {
-  font-size: 56px;
-  margin-left: 47px;
-  color: rgb(127, 255, 244);
+  font-size: 58px;
+  margin-left: 56px;
+  color: rgb(246, 127, 255);
   font: 700 5.5rem 'Poppins', sans-serif;
 }
 .Subtitle {
-  color: rgb(127, 148, 255);
+  color: rgb(191, 114, 217);
   margin: auto;
   font-size: 54px;
   margin-left: 47px;
   font: 700 3.5rem 'Poppins', sans-serif;
 }
 .comment {
-  color: rgb(97, 210, 225);
+  color: rgb(97, 199, 225);
   font-size: 48px;
   margin-left: 49px;
   font: 700 2.5rem 'Poppins', sans-serif;
