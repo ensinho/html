@@ -5,34 +5,34 @@ body {
   width: 94%; 
   min-width: 600px;
   max-width: 2000px;
-  background-color: rgb(66, 155, 200);
+  background-color: rgb(63, 92, 186);
 }
 
 img {
   box-shadow: 10px 15px rgb(21, 21, 21);
   border: 20px;
   border-radius: 18px;
-  margin-left: 160px;
-  height: 400px;
-  width: 600px;
+  margin-left: 200px;
+  height: 450px;
+  width: 650px;
 }
 
 .title {
   font-size: 60px;
   margin-left: 48px;
-  color: rgb(204, 91, 212);
+  color: rgb(0, 255, 242);
   font: 700 5.5rem 'Poppins', sans-serif;
 }
 .Subtitle {
-  color: rgb(71, 99, 194);
+  color: rgb(255, 255, 255);
   margin: auto;
   font-size: 54px;
   margin-left: 47px;
   font: 700 3.5rem 'Poppins', sans-serif;
 }
 .comment {
-  color: rgb(151, 84, 200);
-  font-size: 48px;
-  margin-left: 49px;
+  color: rgb(146, 175, 230);
+  font-size: 84px;
+  margin-left: 52px;
   font: 700 2.5rem 'Poppins', sans-serif;
 }
